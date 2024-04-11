@@ -1,1 +1,11 @@
-# hybrid-proposal
+# Hybrid Proposal
+
+** This document is an individual draft proposal. It has not been adopted by the Private Advertising Technology Community Group. **
+
+Here is the proposal document and accompanying presentation: 
+1. [Hybrid proposal document](https://docs.google.com/document/d/1dLaQstrLqV7PEKqCr6F9wQ4I5hNKvT4iF6J-ng5jhas/edit?usp=sharing)
+2. [Hybrid proposal presentation](https://docs.google.com/presentation/d/1yl_yIVM2QGDegpanyPqhZ40QGJKD1AZQjIadbV6VDbQ/edit?usp=sharing)
+
+Here is the accomanying work on DP budgeting and the privacy framework: 
+1. [DP budgeting for hybrid proposal document](https://docs.google.com/document/d/11BWNzkaTSAa6ZBzl6fbbnpLZi8vgSZjcqKYIt84HXko/edit) 
+2. [DP budgeting for hybrid proposal presentation](https://docs.google.com/presentation/d/1osP7A04J-jmfg_c5FxQutLplLDpuWV6NC685kGTIYT8/edit?usp=sharing)
